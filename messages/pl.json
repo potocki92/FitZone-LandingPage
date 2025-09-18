@@ -1,0 +1,207 @@
+{
+  "navigation": {
+    "home": "Główna",
+    "about": "O nas",
+    "pricing": "Plany",
+    "instructors": "Trenerzy",
+    "testimonials": "Opinie",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "description": "Przekształć swoje ciało, rozwijaj umysł i uwolnij potencjał dzięki naszym nowoczesnym programom fitness stworzonym dla mistrzów.",
+    "explore": "Poznaj nas",
+    "watchDemo": "Obejrzyj demo"
+  },
+  "about": {
+    "title": "Dlaczego ",
+    "description": "Jesteśmy więcej niż siłownią - jesteśmy miejscem, gdzie transformacje stają się rzeczywistością. Nasza misja to pomóc Ci odkryć najlepszą wersję siebie.",
+    "features": {
+      "equipment": {
+        "title": "Nowoczesny sprzęt",
+        "description": "Najnowocześniejszy sprzęt fitness od renomowanych producentów"
+      },
+      "trainers": {
+        "title": "Profesjonalni trenerzy",
+        "description": "Doświadczeni trenerzy personalni gotowi pomóc w osiągnięciu celów"
+      },
+      "atmosphere": {
+        "title": "Przyjazna atmosfera",
+        "description": "Wspierająca społeczność fitness dla wszystkich poziomów zaawansowania"
+      },
+      "results": {
+        "title": "Sprawdzone rezultaty",
+        "description": "Setki zadowolonych członków, którzy osiągnęli swoje cele fitness"
+      }
+    },
+    "story": {
+      "title": "Nasza historia",
+      "p1": "FitZone powstało z pasji do fitness i chęci stworzenia miejsca, gdzie każdy może poczuć się komfortowo podczas treningu. Od 2018 roku pomagamy ludziom osiągać ich cele fitness w przyjaznej i motywującej atmosferze.",
+      "p2": "Nasze wartości to profesjonalizm, wsparcie i ciągły rozwój. Wierzymy, że fitness to nie tylko ćwiczenia, ale styl życia, który przynosi radość i satysfakcję."
+    }
+  },
+  "pricing": {
+    "title": "Wybierz swój",
+    "highlight": "karnet",
+    "description": "Elastyczne plany dopasowane do Twoich potrzeb i budżetu. Bez ukrytych kosztów, bez długoterminowych zobowiązań.",
+    "popular": "Najpopularniejszy",
+    "cta": "Dołącz teraz",
+    "footerNote": "Wszystkie plany obejmują bezpłatny okres próbny 7 dni",
+    "compare": "Porównaj wszystkie plany",
+    "plans": {
+      "month": "miesięcznie",
+      "basic": {
+        "description": "Idealny dla początkujących",
+        "features": [
+          "Dostęp do całego sprzętu siłowni",
+          "1 zajęcia grupowe tygodniowo",
+          "Bezpłatna ocena sprawności"
+        ]
+      },
+      "standard": {
+        "description": "Najlepsza wartość",
+        "features": [
+          "Dostęp do całego sprzętu siłowni",
+          "3 zajęcia grupowe tygodniowo",
+          "1 sesja treningu personalnego miesięcznie",
+          "Bezpłatna ocena sprawności"
+        ]
+      },
+      "premium": {
+        "description": "Dla entuzjastów fitness",
+        "features": [
+          "Dostęp do całego sprzętu siłowni",
+          "Nielimitowane zajęcia grupowe",
+          "4 sesje treningu personalnego miesięcznie",
+          "Dostęp do sauny i spa",
+          "Bezpłatna ocena sprawności"
+        ]
+      }
+    }
+  },
+  "trainers": {
+    "title": "Nasi",
+    "highlight": "trenerzy",
+    "description": "Poznaj nasz zespół doświadczonych trenerów, którzy pomogą Ci osiągnąć wymarzone cele fitness.",
+    "anna": {
+      "specialty": "Crossfit & HIIT",
+      "description": "Mistrzyni crossfitu z 8-letnim doświadczeniem. Specjalizuje się w treningach wysokiej intensywności i pomoże Ci przekroczyć Twoje granice."
+    },
+    "pawel": {
+      "specialty": "Trening siłowy",
+      "description": "Ekspert od budowania masy mięśniowej i siły. Pomógł setkom klientów osiągnąć ich cele w zakresie budowy sylwetki."
+    },
+    "maria": {
+      "specialty": "Joga & Pilates",
+      "description": "Certyfikowana instruktorka jogi i pilates. Łączy tradycyjne techniki z nowoczesnymi metodami dla pełnej harmonii ciała i umysłu."
+    },
+    "tomasz": {
+      "specialty": "Fitness & Cardio",
+      "description": "Specjalista od treningów cardio i spalania tkanki tłuszczowej. Motywuje do przekraczania granic i osiągania najlepszych wyników."
+    },
+    "kasia": {
+      "specialty": "Stretching & Rehabilitacja",
+      "description": "Fizjoterapeutka i trenerka stretching. Pomaga w regeneracji, profilaktyce kontuzji i poprawie elastyczności ciała."
+    },
+    "ola": {
+      "specialty": "Zumba & Taniec",
+      "description": "Energiczna instruktorka tańca i zumby. Sprawia, że każdy trening to czysta radość i pozytywna energia."
+    },
+    "marcin": {
+      "specialty": "Boks & MMA",
+      "description": "Były zawodnik MMA. Prowadzi treningi boksu i sztuk walki dla wszystkich poziomów zaawansowania z naciskiem na technikę i bezpieczeństwo."
+    },
+    "certification": {
+      "description": "Wszyscy nasi trenerzy to certyfikowani profesjonaliści z bogatym doświadczeniem w swoich dziedzinach.",
+      "speciality": [
+        "Crossfit",
+        "Yoga",
+        "Pilates",
+        "HIIT",
+        "Trening siłowy",
+        "Zumba",
+        "Boks"
+      ]
+    },
+    "headTrainer": {
+      "badge": "Główny Trener",
+      "consultation": "Dostępny do konsultacji i treningów personalnych"
+    },
+    "consultation": "Dostępny do konsultacji"
+  },
+  "testimonials": {
+    "title": "Co mówią nasi",
+    "highlight": "członkowie?",
+    "description": "Prawdziwe historie transformacji i sukcesów naszych członków. Dołącz do grona zadowolonych klientów FitZone!",
+    "reviews": [
+      "FitZone całkowicie zmienił moje podejście do fitness. Trenerzy są niesamowici, a atmosfera motywuje do działania każdego dnia!",
+      "Najlepsza siłownia w mieście! Nowoczesny sprzęt, profesjonalna obsługa i świetne zajęcia grupowe. Polecam każdemu!",
+      "Dzięki FitZone schudłam 15 kg i czuję się fantastycznie. Plan żywieniowy i wsparcie trenerów to klucz do sukcesu!",
+      "Treningi personalne w FitZone pomogły mi osiągnąć cele, o których marzyłem. Profesjonalizm na najwyższym poziomie!",
+      "Zajęcia jogi i pilates w FitZone to czysta relaksacja. Instruktorzy są cierpliwi i pomocni. Czuję się tu jak w domu!",
+      "Crossfit w FitZone to prawdziwe wyzwanie! Grupa jest super wspierająca, a efekty przeszły moje najśmielsze oczekiwania."
+    ]
+  },
+  "contact": {
+    "title": "Skontaktuj się z",
+    "highlight": "nami",
+    "description": "Masz pytania? Chcesz umówić się na wizytę? Napisz do nas lub odwiedź naszą siłownię. Chętnie pomożemy Ci rozpocząć przygodę z fitness!",
+    "form": {
+      "title": "Napisz do nas",
+      "name": "Twoje imię",
+      "email": "Twój email",
+      "message": "Twoja wiadomość",
+      "submit": "Wyślij wiadomość",
+      "successMessage": "Wiadomość została wysłana pomyślnie!",
+      "errors": {
+        "name": "Imię jest wymagane",
+        "emailRequired": "Email jest wymagany",
+        "emailInvalid": "Nieprawidłowy format email",
+        "message": "Wiadomość jest wymagana"
+      }
+    },
+    "info": {
+      "title": "Informacje kontaktowe",
+      "address": {
+        "title": "Adres",
+        "street": "ul. Fitness 123",
+        "city": "00-001 Warszawa"
+      },
+      "phone": {
+        "title": "Telefon"
+      },
+      "email": {
+        "title": "Email",
+        "address": "kontakt@fitzone.pl"
+      },
+      "openingHours": {
+        "title": "Godziny otwarcia",
+        "weekdays": "Pon-Pt",
+        "weekends": "Sob-Nie",
+        "membersAccess": "Dostęp 24/7 dla członków"
+      }
+    }
+  },
+  "footer": {
+    "description": "Nowoczesna siłownia i fitness klub, gdzie każdy znajdzie coś dla siebie. Dołącz do nas i rozpocznij swoją transformację już dziś!",
+    "quickLinks": "Szybkie linki",
+    "about": "O nas",
+    "pricing": "Cennik",
+    "schedule": "Harmonogram",
+    "testimonials": "Opinie",
+    "contact": "Kontakt",
+    "services": "Nasze usługi",
+    "gym247": "Siłownia 24/7",
+    "groupClasses": "Zajęcia grupowe",
+    "personalTraining": "Trening personalny",
+    "nutritionConsult": "Konsultacje żywieniowe",
+    "saunaJacuzzi": "Sauna i jacuzzi",
+    "allRightsReserved": "Wszystkie prawa zastrzeżone",
+    "privacyPolicy": "Polityka prywatności",
+    "terms": "Regulamin"
+  },
+  "stats": {
+    "members": "Członkowie",
+    "trainers": "Trenerzy",
+    "access": "Dostęp"
+  }
+}

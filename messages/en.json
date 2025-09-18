@@ -1,0 +1,207 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "pricing": "Pricing",
+    "instructors": "Instructors",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "description": "Transform your body, elevate your mind, and unleash your potential with our cutting-edge fitness programs designed for champions.",
+    "explore": "Explore Us",
+    "watchDemo": "Watch Demo"
+  },
+  "about": {
+    "title": "Why ",
+    "description": "We are more than just a gym - we are a place where transformations become reality. Our mission is to help you discover the best version of yourself.",
+    "features": {
+      "equipment": {
+        "title": "Modern Equipment",
+        "description": "The latest fitness equipment from renowned manufacturers"
+      },
+      "trainers": {
+        "title": "Professional Trainers",
+        "description": "Experienced personal trainers ready to help you achieve your goals"
+      },
+      "atmosphere": {
+        "title": "Friendly Atmosphere",
+        "description": "A supportive fitness community for all levels"
+      },
+      "results": {
+        "title": "Proven Results",
+        "description": "Hundreds of satisfied members who have reached their fitness goals"
+      }
+    },
+    "story": {
+      "title": "Our Story",
+      "p1": "FitZone was born out of a passion for fitness and the desire to create a place where everyone can feel comfortable during training. Since 2018, we have been helping people achieve their fitness goals in a friendly and motivating environment.",
+      "p2": "Our values are professionalism, support, and continuous growth. We believe that fitness is not just about exercise, but a lifestyle that brings joy and satisfaction."
+    }
+  },
+  "pricing": {
+    "title": "Choose your",
+    "highlight": "plan",
+    "description": "Flexible plans tailored to your needs and budget. No hidden fees, no long-term commitments.",
+    "popular": "Most Popular",
+    "cta": "Join Now",
+    "footerNote": "All plans include a free 7-day trial",
+    "compare": "Compare all plans",
+    "plans": {
+      "month": "monthly",
+      "basic": {
+        "description": "Perfect for beginners",
+        "features": [
+          "Access to all gym equipment",
+          "1 group class per week",
+          "Free fitness assessment"
+        ]
+      },
+      "standard": {
+        "description": "Best value",
+        "features": [
+          "Access to all gym equipment",
+          "3 group classes per week",
+          "1 personal training session per month",
+          "Free fitness assessment"
+        ]
+      },
+      "premium": {
+        "description": "For fitness enthusiasts",
+        "features": [
+          "Unlimited access to all gym equipment",
+          "Unlimited group classes",
+          "4 personal training sessions per month",
+          "Nutrition consultation",
+          "Free fitness assessment"
+        ]
+      }
+    }
+  },
+  "trainers": {
+      "title": "Our",
+      "highlight": "trainers",
+      "description": "Meet our team of certified professionals dedicated to helping you achieve your fitness goals.",
+    "anna": {
+      "specialty": "Crossfit & HIIT",
+      "description": "Crossfit champion with 8 years of experience. She specializes in high-intensity training and will help you push past your limits."
+    },
+    "pawel": {
+      "specialty": "Strength Training",
+      "description": "Expert in building muscle mass and strength. He has helped hundreds of clients achieve their physique goals."
+    },
+    "maria": {
+      "specialty": "Yoga & Pilates",
+      "description": "Certified yoga and pilates instructor. She combines traditional techniques with modern methods for full body and mind harmony."
+    },
+    "tomasz": {
+      "specialty": "Fitness & Cardio",
+      "description": "Specialist in cardio and fat-burning workouts. He motivates you to push your limits and achieve the best results."
+    },
+    "kasia": {
+      "specialty": "Stretching & Rehabilitation",
+      "description": "Physiotherapist and stretching coach. She helps with recovery, injury prevention, and improving body flexibility."
+    },
+    "ola": {
+      "specialty": "Zumba & Dance",
+      "description": "Energetic dance and zumba instructor. She makes every workout pure joy and positive energy."
+    },
+    "marcin": {
+      "specialty": "Boxing & MMA",
+      "description": "Former MMA fighter. He leads boxing and martial arts training for all levels, focusing on technique and safety."
+    },
+    "certification": {
+      "description": "All our trainers are certified professionals with extensive experience in their respective fields.",
+      "speciality": [
+        "Crossfit",
+        "Yoga",
+        "Pilates",
+        "HIIT",
+        "Strength Training",
+        "Zumba",
+        "MMA"
+      ]
+    },
+    "headTrainer": {
+      "badge": "Head Trainer",
+      "consultation": "Available for consultations and personal training"
+    },
+    "consultation": "Available for consultations"
+  },
+  "testimonials": {
+    "title": "What our",
+    "highlight": "members say?",
+    "description": "Real stories of transformation and success from our members. Join the community of happy FitZone clients!",
+    "reviews": [
+      "FitZone completely changed my approach to fitness. The trainers are amazing, and the atmosphere motivates you to take action every day!",
+      "The best gym in town! Modern equipment, professional staff, and great group classes. I recommend it to everyone!",
+      "Thanks to FitZone, I lost 15 kg and feel fantastic. The nutrition plan and trainer support are key to success!",
+      "Personal training at FitZone helped me achieve the goals I dreamed of. Professionalism at the highest level!",
+      "Yoga and Pilates classes at FitZone are pure relaxation. The instructors are patient and helpful. I feel at home here!",
+      "Crossfit at FitZone is a real challenge! The group is super supportive, and the results exceeded my wildest expectations."
+    ]
+  },
+  "contact": {
+    "title": "Get in",
+    "highlight": "touch",
+    "description": "Have questions or want to join? Contact us today and take the first step towards a healthier, fitter you!",
+    "form": {
+      "title": "Send us a message",
+      "name": "Your name",
+      "email": "Your email",
+      "message": "Your message",
+      "submit": "Send a message",
+      "successMessage": "Message sent successfully!",
+      "errors": {
+        "name": "Name is required",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Invalid email format",
+        "message": "Message is required"
+      }
+    },
+    "info": {
+      "title": "Contact Information",
+      "address": {
+        "title": "Address",
+        "street": "123 Fitness St",
+        "city": "Wellness City"
+      },
+      "phone": {
+        "title": "Phone"
+      },
+      "email": {
+        "title": "Email",
+        "address": "contact@fitzone.org"
+      },
+      "openingHours": {
+        "title": "Opening Hours",
+        "weekdays": "Mon-Fri",
+        "weekends": "Sat-Sun",
+        "membersAccess": "24/7 access for members"
+      }
+    }
+  },
+  "footer": {
+    "description": "Modern gym and fitness club where everyone can find something for themselves. Join us and start your transformation today!",
+    "quickLinks": "Quick Links",
+    "about": "About Us",
+    "pricing": "Pricing",
+    "schedule": "Schedule",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "services": "Our Services",
+    "gym247": "Gym 24/7",
+    "groupClasses": "Group Classes",
+    "personalTraining": "Personal Training",
+    "nutritionConsult": "Nutrition Consultations",
+    "saunaJacuzzi": "Sauna & Jacuzzi",
+    "allRightsReserved": "All rights reserved",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms & Conditions"
+  },
+  "stats": {
+    "members": "Members",
+    "trainers": "Trainers",
+    "access": "Access"
+  }
+}
